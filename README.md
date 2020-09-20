@@ -4,7 +4,7 @@
 
 ### 🔭 Career
 - Received the B.S. degrees, in Electrical Technology and Science  from Tianjin University, Tianjin, China, in 2007.
-- Received the M.S. degrees, in Optical Engineering from Shanghai optics and fine mechanics institute,CAS, Shanghai, China, in 2010.
+- Received the M.S. degrees, in Optical Engineering from Shanghai Institute Optics and Fine Mechanics ,CAS, Shanghai, China, in 2010.
 - Joined the General Electrical Research and Development Center,Shanghai, China, as a **Research Engineer**, in 2010.
 - Enrolled Technical and leader training program of Company, and had global bubble assignments in China and US from 2017 to 2019.
 - Joined the General Electrical Aviation Engineering China, Shanghai, China, as a **Technical Leader of Inspection technology**, in 2019.
