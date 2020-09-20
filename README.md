@@ -1,6 +1,6 @@
 ### Jie Han [@jay9z](https://github.com/jay9z)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoya012" alt="hoya012" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jay9z" alt="Jay9z" /> </p>
 
 ### 🔭 Career
 - Received the B.S. degrees, in Electrical Technology and Science  from Tianjin University, Tianjin, China, in 2007.
@@ -28,7 +28,7 @@
 - [TFKR PR-12 Study](https://www.youtube.com/results?search_query=pr12) Season 3 Presenter
 - [Research Blog (Korean)](https://hoya012.github.io)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoya012&show_icons=true" alt="hoya012" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay9z&show_icons=true" alt="Jay9z" /></p>
 -->
 
 
