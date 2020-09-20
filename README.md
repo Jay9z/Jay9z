@@ -10,10 +10,11 @@
 - Joined the General Electrical Aviation Engineering China, Shanghai, China, as a **Technical Leader of Inspection technology**, in 2019.
 
 ### 🌱 Interest
-- **Inspection Technology**
+- **Defect Auto Recognition**
     - Deep Learning
     - Digital Image processing
     - Machine Vision
+    - NDT
 - **Robotics**
 - **Metrology**
 - **Optical System**
