@@ -16,7 +16,7 @@
     - Machine Vision
 - **Robotics**
 - **Metrology**
-- **Optics System**
+- **Optical System**
 - **Anomaly Detection**
 - **Image Processing using Deep Learning**
     - Super Resolution
